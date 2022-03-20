@@ -31,3 +31,5 @@
 * you will receive multiple `pull` requests from your collaborator with suggestions on how to adopt best practices in your repo
 * use the pull request functionality in GitHub to **accept**, **comment** or **reject** each one of these pull requests.
 * note that you will not receive full marks if you leave pull requests unattended.
+
+#### (e) add information about script
