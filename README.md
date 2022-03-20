@@ -33,3 +33,4 @@
 * note that you will not receive full marks if you leave pull requests unattended.
 
 #### (e) add information about script
+If this is a json script, I would want to know more about what this creating, where i can the output, etc.
