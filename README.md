@@ -34,3 +34,5 @@
 
 #### (e) add information about script
 If this is a json script, I would want to know more about what this creating, where i can the output, etc.
+
+#### add output of the JSON script to the repo. would be cool to get links to the recipes too, if they're online. maybe some stories about them.

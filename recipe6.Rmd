@@ -1,0 +1,17 @@
+---
+title: "recipes"
+author: "Dean Baltiansky"
+date: "3/22/2022"
+output: html_document
+---
+
+# Bacon, Egg, & Cheese Recipe
+
+```{r setup, include=FALSE}
+eggs <- 2
+bacon <- 1
+cheese <- 1
+bagel <- 1
+```
+
+
